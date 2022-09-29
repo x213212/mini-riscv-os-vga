@@ -1,3 +1,3 @@
 # mini-riscv-os-vga
 vga
-![](https://imgur.com/GTV6jui.gif)
+![](https://i.imgur.com/67MDyds.gif)
