@@ -10,4 +10,6 @@ in the `LICENSE` file.
 
 # Reference
 [mini-riscv-os](https://github.com/cccriscv/mini-riscv-os)
-[vga](https://gist.github.com/iamgreaser/15a0a81cd117d4efd1c47ce598c13c91)
+
+
+[iamgreaser-vga](https://gist.github.com/iamgreaser/15a0a81cd117d4efd1c47ce598c13c91)
